@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Entrelazadas</string>
+    <string name="action_settings">Settings</string>
+    <string name="downloading">Descargando el catálogo</string>
+    <string name="downloadingImages">Descargando las imagenes</string>
+    <string name="completImages">Las imagenes se están descargando con éxito</string>
+    <string name="complet">Se ha completado la descarga del catálogo</string>
+    <string name="download_question">Existe una version del catálogo en su dispositivo, ¿quiere descargar una nueva?</string>
+    <string name="Yes">Sí</string>
+    <string name="No">No</string>
+    <string name="io_exception">Error: IO exception</string>
+    <string name="url_malformed">Error: url erronea</string>
+    <string name="exception">Error : Por favor compruebe su conexión a internet </string>
+    <string name="http_status_error">HTTP Error : </string>
+</resources>
